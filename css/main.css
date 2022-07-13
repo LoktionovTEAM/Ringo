@@ -3732,7 +3732,6 @@ img {
   z-index: 1;
 }
 .btn-scroll-up__icon {
-  display: block;
   font-size: 3rem;
 }
 .btn-scroll-up.active {
