@@ -2720,9 +2720,7 @@ textarea {
   resize: none;
   overflow-y: auto;
 }
-textarea :valid {
-  border: 2px solid #00ff00;
-}
+
 textarea:invalid {
   border: 2px dashed #E11616;
 }
